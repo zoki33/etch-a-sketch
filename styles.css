@@ -1,0 +1,48 @@
+ .page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .buttons{
+    justify-items: center;
+    padding-bottom: 50px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .btn{
+    height: 50px;
+    width: 200px;
+
+  }
+  
+  .container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+  }
+  
+  .squares{
+    
+    height: 50px;
+    width: 50px;
+  }
+
+  .width{
+    background-color: white;
+    color: rgb(56, 56, 33);
+  }
+  
+  .RGB{
+    background: linear-gradient(83deg, rgba(64,58,180,1) 20%, rgba(253,29,29,1) 62%, rgba(69,252,112,1) 77%);
+  }
+  
+
+  h1{
+    font
+  }
+
+ 
