@@ -211,6 +211,7 @@ function resetCanvas (){
             square.style.backgroundColor="white";
         })
     }
+    blackPen();
 }
 
 draw();
